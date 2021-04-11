@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @so1itaire
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Java
